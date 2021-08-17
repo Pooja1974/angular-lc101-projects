@@ -1,10 +1,13 @@
-li{
-    font-size: 20;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: crimson;
+.chores {
+    font-family: 'london';
+    font-size: 1.6vw;
+    color: red;
+ }
+ 
+ h3 {
+    text-decoration: underline;
+ }
+ 
+ li {
     font-style: italic;
-}
-
-h3{
-   text-decoration: underline;
-}
+ }
